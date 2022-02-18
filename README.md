@@ -23,7 +23,7 @@ public record ContoCorrente(Guid Id)
 ...e proviamo a implementare i seguenti requisiti.
 
 ## 1. Come correntista, vorrei vedere lo storico dei movimenti
-**Tracciabilità** di ogni invocazione dei metod `Accredita` e `Addebita`
+**Tracciabilità** di ogni invocazione dei metodi `Accredita` e `Addebita`
 
 ---
 
